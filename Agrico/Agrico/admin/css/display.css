@@ -1,0 +1,160 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+.center-div{
+    width: 90%;
+    height: 80vh;
+    padding: 20px 0 0 0;
+    box-shadow: 0 10px 20px 0 rgba(0,0,0,.03);
+    border-radius: 10px;
+}
+h1{
+    font-size: 18px;
+    color: #000;
+    text-align: center;
+    margin-top: -20px;
+    margin-bottom: 20px;
+}
+table{
+    border-collapse: collapse;
+    background-color: #fff ;
+    box-shadow: 0 10px 20px 0 rgba(0,0,0,.03);
+    border-radius: 10px;
+    margin: auto;
+}
+th,td{
+    border: 1px solid #f2f2f2;
+    padding: 1px 20px;
+    text-align: center;
+    color: gray;
+}
+th{
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: 500;
+}
+td{
+    font-size: 15px;
+    font-style: italic;
+    color: black;
+}
+.post-class{
+    text-transform: uppercase;
+}
+.fa{
+    font-size: 18px;
+}
+.fa-edit{
+    color: #63c76a;
+}
+.fa-trash{
+    color: #ff0000;
+}
+
+#bodyright{
+    width: 82%;
+    height: 550px;
+    background: #fff;
+    float: left;
+    overflow-y: auto;
+}
+#bodyright h3{
+    margin-bottom: 2%;
+    line-height: 30px;
+    font-weight: normal;
+    color: #fff;
+    text-align: center;
+    font-size: 12px;
+    background: #74889e;
+    height: 30px;
+}
+
+#add details{
+    width: 60%;
+    margin: auto;
+}
+#add details summary{
+    cursor: pointer;
+    text-align: center;
+    outline: none;
+    width: 100%;
+    height: 30px;
+    line-height: 30px ;
+    color: #3f5267;
+    border: 1px solid #3f5267;
+    font-size: 12px;
+}
+#add details form{
+    background: #74889e;
+    padding: 3% ;
+    box-sizing: border-box;
+}
+#add details form input{
+    margin-bottom: 2%;
+    font-size: 12px;
+    width: 100%;
+    height: 30px;
+    outline: none;
+    padding-left: 3%;
+    box-sizing: border-box;
+}
+#add details form select{
+    margin-bottom: 2%;
+    font-size: 12px;
+    width: 100%;
+    height: 30px;
+    outline: none;
+    padding-left: 3%;
+    box-sizing: border-box;
+}
+#add details form textarea{
+    margin-bottom: 2%;
+    font-size: 12px;
+    width: 100%;
+    height: 100px;
+    outline: none;
+    padding: 3%;
+    box-sizing: border-box;
+}
+#add details form button{
+    color: #fff;
+    width: 40%;
+    height: 30px;
+    font-size: 12px;
+    background: none;
+    outline: none;
+    border: 1px solid #fff;
+}
+#add details form button:hover{
+    cursor: pointer;
+    background: #fff;
+    color: #3f5267;
+}
+
+#add table{
+    width: 60.2%;
+    margin: auto;
+    border: 1px solid #74889e;
+}
+#add table tr th{
+    height: 35px;
+    background: #74889e;
+    font-size: 12px;
+    color: #fff;
+    box-sizing: border-box;
+    text-align: left;
+    padding-left: 2%;
+}
+#add table tr td{
+    color: #000;
+    height: 30px;
+    padding-left: 2%;
+    box-sizing: border-box;
+    font-size: 12px;
+}
