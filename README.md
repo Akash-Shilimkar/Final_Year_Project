@@ -6,7 +6,7 @@ How to run Library Management System Project
    Open PHPMyAdmin
    Create Database agrico
    Import database agrico.sql (available inside zip package)
-5. For Admin Panel Open Your browser put inside browser “http://localhost/library/admin”
+5. For Admin Panel Open Your browser put inside browser “http://localhost/agrico/admin”
    Login Details for admin :
     Username : admin
     Password : admin@123
