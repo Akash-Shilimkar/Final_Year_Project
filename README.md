@@ -1,4 +1,4 @@
-How to run Library Management System Project
+How to run Agrico
 1. Download and Unzip file on your local system copy Agrico.
 2. Put library folder inside root directory
 3. Downlaod Xammp Server
