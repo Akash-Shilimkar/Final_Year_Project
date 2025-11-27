@@ -6,7 +6,7 @@ How to run Agrico
    Open PHPMyAdmin
    Create Database agrico
    Import database agrico.sql (available inside zip package)
-5. For Admin Panel Open Your browser put inside browser “http://localhost/agrico/admin”
+5. For Admin Panel Open Your browser put inside browser “http://localhost/agrico/agrico/admin”
    Login Details for admin :
     Username : admin
     Password : admin@123
