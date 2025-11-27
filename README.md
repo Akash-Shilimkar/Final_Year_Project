@@ -1,6 +1,6 @@
 How to run Agrico
 1. Download and Unzip file on your local system copy Agrico.
-2. Put library folder inside root directory
+2. Put that downloaded project inside XAMPP/htdoc folder which is present in C-Drive.
 3. Downlaod Xammp Server
 4. Database Configuration
    Open PHPMyAdmin
